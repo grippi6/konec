@@ -1,0 +1,75 @@
+[
+  {
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/1703615/pub_61361d2973cb3821f6ee4014_61361d4a0d368d33ece7c3af/scale_1200",
+    "name": "Дмитрий Назаров",
+    "role": "Шеф-повар Виктор Баринов",
+    "description": "Строгий, требовательный шеф-повар, который управляет рестораном 'Кухня'"
+  },
+  {
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/3579604/pub_5f688c67f52b7a188132347c_5f688c964523ae2f8f9c304f/scale_1200",
+    "name": "Марк Богатырев",
+    "role": "Максим Лавров",
+    "description": "Молодой повар, который приходит работать в ресторан 'Кухня' и попадает в водоворот событий"
+  },
+  {
+    "image": "https://www.peoples.ru/art/cinema/actor/elema_podkaminskaya/podkaminskaya_4.jpg",
+    "name": "Елена Подкаминская",
+    "role": "Виктория Гончарова",
+    "description": "Красивая и умная девушка, которая работает в ресторане 'Кухня' и зачастую оказывается в центре внимания"
+  },
+  {
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/1923220/pub_5d449611e3062c00ad407a29_5d449dfc998ed600ac804f09/scale_1200",
+    "name": "Сергей Лавыгин",
+    "role": "Сеня",
+    "description": "Забавный и неуклюжий повар, который всегда готов подставить плечо своим друзьям"
+  },
+  {
+    "image": "https://avatars.dzeninfra.ru/get-zen_doc/3323369/pub_5feac2c0adb1796a08a7e0f7_5ff2b518bb14d54ffb2a43da/scale_1200",
+    "name": "Ольга Кузьмина",
+    "role": "Настя",
+    "description": "Официантка ресторана 'Кухня', которая всегда готова поднять настроение своим коллегам"
+  },
+  {
+    "image": "https://images.uznayvse.ru/1600x1200/p/images/content/2023/6/16/kitchen-viktor-khorinyak-as-konstantin-anisimov_34.jpg",
+    "name": "Виктор Хориняк",
+    "role": "Костя Анисимов",
+    "description": "Умный и опытный повар, который всегда готов помочь Максиму"
+  },
+  {
+    "image": "https://image.krasview.ru/video/b1a3a8922e71d81/__3.jpg",
+    "name": "Григорий Сиятвинда",
+    "role": "Михаил Джекович",
+    "description": "Хозяин ресторана 'Кухня', который всегда мечтает о прибыли"
+  },
+  {
+    "image": "https://kino-teatr.ru/news/23539/207736.jpg",
+    "name": "Екатерина Кузнецова",
+    "role": "Саша",
+    "description": "Девушка Дениса, которая часто помогает ему советом"
+  },
+  {
+    "image": "https://webpulse.imgsmail.ru/imgpreview?mb=webpulse&key=pulse_cabinet-image-22d0eee1-379b-47e1-8ef1-a9685f2354d9",
+    "name": "Дмитрий Нагиев",
+    "role": "Дмитрий Владимирович",
+    "description": ""
+  },
+  {
+    "image": "https://avatars.mds.yandex.net/i?id=7cebb5a8c5bd46379348fb9072604cba2401ace1-10118230-images-thumbs&n=13",
+    "name": "Марина Могилевская",
+    "role": "Елена Павловна Соколова",
+    "description": ""
+  },
+  {
+    "image": "https://sun9-50.userapi.com/impg/bDhjW0wTeH5z8rDwu1FgnFt0q2EqNJwSiSU35Q/AB8eBK72dOs.jpg?size=604x340&quality=96&sign=220c8e213d2d47d85275cdcc0e878351&type=album",
+    "name": "Михаил Тарабукин",
+    "role": "Федя",
+    "description": ""
+  },
+  {
+    "image": "https://sun9-3.userapi.com/impf/VDBU4pXzV9481AbI-zDifME4j16iQ7gN4rUVCw/ATTi3RyMHbs.jpg?size=655x436&quality=96&sign=7e5ff9049931cf4e669dc7f9463e6127&c_uniq_tag=eskNtdJYUR5o2eixOj1lGBfbQZgWHnCrhP3LQzPqr0Y&type=album",
+    "name": "Никита Тарасов",
+    "role": "Луи",
+    "description": "Молодой повар, который только начинает свою карьеру в ресторане 'Кухня'"
+  }
+]
+

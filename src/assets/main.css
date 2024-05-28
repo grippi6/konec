@@ -1,0 +1,13 @@
+
+*{
+    margin: 0 ;
+    box-sizing: border-box;
+    font-family: nyashasans;
+
+
+}
+@font-face{
+    font-family:nyashasans ;
+    src: url('../assets/fonts/nyashasans.ttf');
+}
+
